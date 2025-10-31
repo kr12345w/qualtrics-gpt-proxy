@@ -1,0 +1,6 @@
+{
+  "name": "qualtrics-gpt-proxy",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
